@@ -451,20 +451,20 @@
       "url": "https://github.com/aarvsn/PS5Droid"
     },
     {
-      "name": "PS5 Linux Loader",
-      "description": "PS5 Linux loader maintained by soniciso1; intentionally distinct from ps5-linux/ps5-linux-loader.",
+      "name": "PS5 Linux Loader (soniciso1)",
+      "description": "PS5 Linux loader maintained by soniciso1. Latest release 10.xx-support (2026-10-25) provides ps5-linux-loader-10-13-20261025.elf; release notes specify 10.xx support for PS5 Fat/Slim, not Pro. Keep this repository distinct from ps5-linux/ps5-linux-loader.",
       "repository_url": "https://github.com/soniciso1/ps5-linux-loader",
       "category": "Linux & Boot",
       "author": "soniciso1",
       "payload_available": true,
-      "version": "v2026.10.22-all11-13",
-      "last_update": "2026-10-22",
-      "payload_filename": "ps5-linux-loader.elf",
-      "payload_url": "https://github.com/soniciso1/ps5-linux-loader/releases/download/v2026.10.22-all11-13/ps5-linux-loader.elf",
-      "checksum": "32041e7c54db8f1a86a0db0b8fb2a755d8f0209482e29ee903afd059d71b0989",
+      "version": "10.xx-support",
+      "last_update": "2026-10-25",
+      "payload_filename": "ps5-linux-loader-10-13-20261025.elf",
+      "payload_url": "https://github.com/soniciso1/ps5-linux-loader/releases/download/10.xx-support/ps5-linux-loader-10-13-20261025.elf",
+      "checksum": "17679bd43e5435bd407802b5036399a2b961e6845a726dd3b1919f0a5a5af8e6",
       "url": "https://github.com/soniciso1/ps5-linux-loader",
       "owner": "soniciso1",
-      "release_url": "https://github.com/soniciso1/ps5-linux-loader/releases/tag/v2026.10.22-all11-13"
+      "release_url": "https://github.com/soniciso1/ps5-linux-loader/releases/tag/10.xx-support"
     },
     {
       "name": "Prospero Menu",
@@ -944,15 +944,16 @@
     },
     {
       "name": "PS5 Linux Loader (soniciso1)",
-      "filename": "ps5-linux-loader.elf",
-      "url": "https://github.com/soniciso1/ps5-linux-loader/releases/download/v2026.10.22-all11-13/ps5-linux-loader.elf",
+      "filename": "ps5-linux-loader-10-13-20261025.elf",
+      "url": "https://github.com/soniciso1/ps5-linux-loader/releases/download/10.xx-support/ps5-linux-loader-10-13-20261025.elf",
       "source": "https://github.com/soniciso1/ps5-linux-loader/releases",
-      "source_direct": "https://github.com/soniciso1/ps5-linux-loader/releases/download/v2026.10.22-all11-13/ps5-linux-loader.elf",
-      "description": "Direct ELF asset from soniciso1's PS5 Linux Loader release; separate from the ps5-linux/ps5-linux-loader project.",
-      "version": "v2026.10.22-all11-13",
-      "last_update": "2026-10-22",
+      "source_direct": "https://github.com/soniciso1/ps5-linux-loader/releases/download/10.xx-support/ps5-linux-loader-10-13-20261025.elf",
+      "description": "Direct ELF asset from soniciso1's PS5 Linux Loader release. Release notes specify 10.xx support for PS5 Fat/Slim, not Pro; separate from ps5-linux/ps5-linux-loader.",
+      "version": "10.xx-support",
+      "last_update": "2026-10-25",
       "category": "Linux & Boot",
-      "id": "ps5-linux-loader-soniciso1-v2026.10.22-all11-13"
+      "id": "ps5-linux-loader-soniciso1-10.xx-support",
+      "checksum": "17679bd43e5435bd407802b5036399a2b961e6845a726dd3b1919f0a5a5af8e6"
     },
     {
       "name": "Prospero Menu",
